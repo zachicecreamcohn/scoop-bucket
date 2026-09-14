@@ -1,10 +1,10 @@
 # scoop-bucket
 
-Scoop bucket for [soute](https://github.com/zacharycohn/soute) — zero-friction
+Scoop bucket for [soute](https://github.com/zachicecreamcohn/soute) — zero-friction
 project file versioning.
 
 ```powershell
-scoop bucket add zacharycohn https://github.com/zacharycohn/scoop-bucket
+scoop bucket add zachicecreamcohn https://github.com/zachicecreamcohn/scoop-bucket
 scoop install soute
 ```
 
