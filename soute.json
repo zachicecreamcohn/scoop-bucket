@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/zachicecreamcohn/soute/releases/download/v0.1.0/soute_0.1.0_windows_amd64.zip",
+            "bin": [
+                "soute.exe"
+            ],
+            "hash": "5c62d3bf61228f9987e629c7e323c78561c3fe78116768fce08e577dfa293de6"
+        },
+        "arm64": {
+            "url": "https://github.com/zachicecreamcohn/soute/releases/download/v0.1.0/soute_0.1.0_windows_arm64.zip",
+            "bin": [
+                "soute.exe"
+            ],
+            "hash": "3495199860da23a644b98811bd834bb98c6e704f056e3461b35ae727f9320dd2"
+        }
+    },
+    "homepage": "https://github.com/zachicecreamcohn/soute",
+    "license": "MIT",
+    "description": "Zero-friction project file versioning"
+}
